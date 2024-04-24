@@ -194,7 +194,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: ldf
+  m_Text: "\u0434\u0432\u0430\u0441"
 --- !u!222 &23717089
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -696,7 +696,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: "\u041F\u0438\u0443"
 --- !u!222 &757924830
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1624,9 +1624,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f7cdea971ccf7f44bb0e338fe9c96df3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FirstNum: {fileID: 1085387933}
-  SecondNum: {fileID: 1071900784}
-  OtvetNum: {fileID: 1071900784}
+  FirstNum: {fileID: 783338411}
+  SecondNum: {fileID: 999493493}
+  OtvetNum: {fileID: 757924829}
 --- !u!114 &1137578898
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1639,8 +1639,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be7164bd20d1b9448be947b095652b1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FirstNum: {fileID: 1085387933}
-  SecondNum: {fileID: 1071900784}
+  FirstNum: {fileID: 783338411}
+  SecondNum: {fileID: 999493493}
   OtvetNum: {fileID: 757924829}
 --- !u!114 &1137578899
 MonoBehaviour:
@@ -1654,8 +1654,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f66e6e90884276d41a8eff08d0144b52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FirstNum: {fileID: 1085387933}
-  SecondNum: {fileID: 1071900784}
+  FirstNum: {fileID: 783338411}
+  SecondNum: {fileID: 999493493}
   OtvetNum: {fileID: 757924829}
 --- !u!114 &1137578900
 MonoBehaviour:
@@ -1669,8 +1669,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5ba9f87152fef747b875d0645adef58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FirstNum: {fileID: 1085387933}
-  SecondNum: {fileID: 1071900784}
+  FirstNum: {fileID: 783338411}
+  SecondNum: {fileID: 999493493}
   OtvetNum: {fileID: 757924829}
 --- !u!1 &1391958957
 GameObject:
@@ -2091,7 +2091,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: hfp
+  m_Text: "\u0440\u0430\u0437"
 --- !u!222 &1622248568
 CanvasRenderer:
   m_ObjectHideFlags: 0
